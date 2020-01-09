@@ -1,0 +1,1 @@
+A simple chat app created with React, Node and Socket.IO for practice purposes.
